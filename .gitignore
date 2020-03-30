@@ -1,0 +1,6 @@
+# ignore dependencies
+/node_modules
+/client/node_modules
+
+# ignore env vars
+**/*.env
